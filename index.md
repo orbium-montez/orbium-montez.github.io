@@ -2,12 +2,6 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
-# **Project Title**
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ## **Overview**
 
 Hi, my name is Allen Montez and this is my  project hub where I share all the things i'm making, working, coding and creating!
@@ -22,7 +16,6 @@ Hi, my name is Allen Montez and this is my  project hub where I share all the th
 ## **Challenges and Solutions**
 
 > **Blockquote Example:**
->
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### **Code Examples**
