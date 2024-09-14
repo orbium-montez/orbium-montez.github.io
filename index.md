@@ -18,13 +18,3 @@ Hi, my name is Allen Montez and this is my  project hub where I share all the th
 > **Blockquote Example:**
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### **Code Examples**
-
-#### *JavaScript Code*
-
-```js
-// JavaScript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l);
-  return true;
-};
