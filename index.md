@@ -1,7 +1,7 @@
 
 
 ## About Me 
-Welcome to my project page!
+Hi I'm Allen Montez,
 
 I'm a creator and innovator who thrives at the intersection of technology and creativity. With a passion for engineering, music production, coding, web app development, and design, I love to explore how things work by tearing them apart and reinventing them in new and exciting ways. Whether it's building a web app, composing music, or crafting a unique piece of graphic art, I immerse myself in projects that challenge me to blend technical prowess with artistic vision.
 
