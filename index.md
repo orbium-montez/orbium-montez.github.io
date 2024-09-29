@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## About Me 
 Welcome to my project page!
